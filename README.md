@@ -25,3 +25,7 @@ Check out the [Closed Issues](../../issues?q=is%3Aissue+is%3Aclosed) filter on t
 ### Tweet me on Twitter
 
 If you have something quick and easy, just tweet me on Twitter. I'm [@AINPgroup](https://twitter.com/AINPgroup) on Twitter.
+
+### Ask to join the organization
+
+Simply create an issue :)
